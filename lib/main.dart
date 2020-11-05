@@ -90,7 +90,7 @@ class _FormInputState extends State<FormInput> {
               child: Padding(
                 padding:
                     const EdgeInsets.symmetric(vertical: 8.0, horizontal: 16.0),
-                child: Text('Hitung'), 
+                child: Text('Hitung'),
               ),
               onPressed: () {
                 setState(() {
